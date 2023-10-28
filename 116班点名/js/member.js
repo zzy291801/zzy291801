@@ -11,7 +11,7 @@
 {"phone": "No.11","name":"黄伟明"},
 {"phone": "No.12","name":"黎媛媛"},
 {"phone": "No.13","name":"李博勋"},
-{"phone": "No.14","name":"李嘉惠"},
+{"phone": "No.14","name":"李嘉慧"},
 {"phone": "No.15","name":"廖石博"},
 {"phone": "No.16","name":"廖展"},
 {"phone": "No.17","name":"刘清"},
