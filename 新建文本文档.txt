@@ -1,0 +1,1 @@
+<input type="button" value="名称" onclick="window.location.href='web address'">
